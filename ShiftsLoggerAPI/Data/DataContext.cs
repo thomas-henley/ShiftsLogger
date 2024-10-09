@@ -1,5 +1,5 @@
 ﻿using Microsoft.EntityFrameworkCore;
-using ShiftsLoggerAPI.Entities;
+using ShiftsLoggerAPI.Models;
 
 namespace ShiftsLoggerAPI.Data;
 
