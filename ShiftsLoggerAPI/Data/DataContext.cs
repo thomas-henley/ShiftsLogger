@@ -10,5 +10,5 @@ public class DataContext : DbContext
         
     }
     
-    public DbSet<Employee> Employees { get; set; }
+    public DbSet<Employee?> Employees { get; set; }
 }
